@@ -42,7 +42,7 @@ backend/
 ├── README.md         # Documentation (this file)
 ```
 
-## **3. Setup & Installation ** 🛠️  
+## **3. Setup & Installation** 🛠️  
 
 ### **Clone the repository**:
 ```bash
